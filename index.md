@@ -10,7 +10,7 @@
 <img src="images/protestimagev2.png?raw=true"/>
 
 ---
-[Gentrification in Philadelphia](/MUSA508_KristinTova_Final)
+[Gentrification in Philadelphia](/MUSA508_KristinTova_Final.html)
 <img src="images/phillygentrification.png?raw=true"/>
 
 ---
@@ -18,7 +18,7 @@
 <img src="images/Housing-Credit.jpg?raw=true"/>
 
 ---
-[Mapping Dead Sea Shrinkage using Google Earth Engine](/Perlman, Tova_FinalProject.pdf)
+[Mapping Dead Sea Shrinkage using Google Earth Engine](pdf/Perlman, Tova_FinalProject.pdf)
 <img src="images/deadsea.jpg?raw=true"/>
 
 ---
