@@ -2,18 +2,22 @@
 
 ---
 
-### MUSA 508 
+### Past Projects
 
-[Electoral Politics](/sample_page)
-<img src="images/steelers.jpg?raw=true"/>
+[Protest Trends](http://tovaperlman.github.io/MUSA550FinalProject/)
+<img src="images/protestimagev2.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Gentrification in Philadelphia](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Housing Credit Allocation Model](/TovaPerlman_508_HW4.2)
+<img src="images/Housing-Credit.jpg?raw=true"/>
+
+---
+[Mapping Dead Sea Shrinkage using Google Earth Engine](/Perlman, Tova_FinalProject.pdf)
+<img src="images/deadsea.jpg?raw=true"/>
 
 ---
 
