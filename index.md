@@ -11,10 +11,10 @@
 
 ---
 [Gentrification in Philadelphia](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
-<img src="images/phillygentrification.png?raw=true"/>
+<img src="images/phillygentrification.PNG?raw=true"/>
 
 ---
-[Housing Credit Allocation Model](/TovaPerlman_508_HW4.2)
+[Housing Credit Allocation Model](https://htmlpreview.github.io/?https://github.com/tovaperlman/MUSA508_HW4/blob/master/508_HW4.R)
 <img src="images/Housing-Credit.jpg?raw=true"/>
 
 ---
