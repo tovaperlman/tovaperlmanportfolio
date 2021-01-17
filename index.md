@@ -5,6 +5,8 @@
 ### Past Projects
 
 [Protest Trends](http://tovaperlman.github.io/MUSA550FinalProject/)
+
+
 <img src="images/protestimagev2.png?raw=true"/>
 
 ---
