@@ -8,8 +8,8 @@
 <img src="images/protestimagev2.jpg?raw=true"/>
 
 ---
-[Gentrification in Philadelphia](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gentrification in Philadelphia](/MUSA508_KristinTova_Final)
+<img src="images/phillygentrification.jpg?raw=true"/>
 
 ---
 [Housing Credit Allocation Model](/TovaPerlman_508_HW4.2)
