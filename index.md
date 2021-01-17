@@ -10,7 +10,7 @@
 <img src="images/protestimagev2.png?raw=true"/>
 
 ---
-[Gentrification in Philadelphia](/MUSA508_KristinTova_Final.html)
+[Gentrification in Philadelphia](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
 <img src="images/phillygentrification.png?raw=true"/>
 
 ---
