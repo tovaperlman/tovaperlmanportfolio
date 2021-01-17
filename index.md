@@ -11,14 +11,16 @@
 
 ---
 [Gentrification in Philadelphia](https://htmlpreview.github.io/?https://github.com/kristinchang/KristinTova508Final/blob/main/MUSA508_KristinTova_Final.html)
+
 <img src="images/phillygentrification.PNG?raw=true"/>
 
 ---
 [Housing Credit Allocation Model](https://htmlpreview.github.io/?https://github.com/tovaperlman/MUSA508_HW4/blob/master/508_HW4.R)
+
 <img src="images/Housing-Credit.jpg?raw=true"/>
 
 ---
-[Mapping Dead Sea Shrinkage using Google Earth Engine](pdf/Perlman, Tova_FinalProject.pdf)
+[Mapping Dead Sea Shrinkage using Google Earth Engine](pdf/Perlman,Tova_FinalProject.pdf)
 <img src="images/deadsea.jpg?raw=true"/>
 
 ---
