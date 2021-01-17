@@ -5,11 +5,11 @@
 ### Past Projects
 
 [Protest Trends](http://tovaperlman.github.io/MUSA550FinalProject/)
-<img src="images/protestimagev2.jpg?raw=true"/>
+<img src="images/protestimagev2.png?raw=true"/>
 
 ---
 [Gentrification in Philadelphia](/MUSA508_KristinTova_Final)
-<img src="images/phillygentrification.jpg?raw=true"/>
+<img src="images/phillygentrification.png?raw=true"/>
 
 ---
 [Housing Credit Allocation Model](/TovaPerlman_508_HW4.2)
