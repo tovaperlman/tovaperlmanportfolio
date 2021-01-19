@@ -25,8 +25,8 @@
 
 ---
 
-
-
+[Memo to Mayor on predicting recidivism rates](pdf/MUSA508_MemoHW5.pdf)
+<img src="images/incarceration.jpg?raw=true"/>
 
 
 ---
