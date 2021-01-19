@@ -15,7 +15,7 @@
 <img src="images/phillygentrification.PNG?raw=true"/>
 
 ---
-[Housing Credit Allocation Model](https://htmlpreview.github.io/?https://github.com/tovaperlman/MUSA508_HW4/blob/master/508_HW4.R)
+[Housing Credit Allocation Model](https://htmlpreview.github.io/?https://github.com/tovaperlman/MUSA508_HW4/blob/master/508_HW4.2.html)
 
 <img src="images/Housing-Credit.jpg?raw=true"/>
 
