@@ -20,7 +20,7 @@
 <img src="images/Housing-Credit.jpg?raw=true"/>
 
 ---
-[Mapping Dead Sea Shrinkage using Google Earth Engine](/pdf/Perlman, Tova_FinalProject.pdf)
+[Mapping Dead Sea Shrinkage using Google Earth Engine](pdf/Perlman, Tova_FinalProject.pdf)
 <img src="images/deadsea.jpg?raw=true"/>
 
 ---
