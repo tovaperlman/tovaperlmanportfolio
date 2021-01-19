@@ -17,7 +17,7 @@
 ---
 [Housing Credit Allocation Model](https://htmlpreview.github.io/?https://github.com/tovaperlman/508_HW4_Public/blob/master/508_HW4.2.html)
 
-<img src="images/Housing-Credit.jpg?raw=true"/>
+[<img src="images/Housing-Credit.jpg?raw=true"/>](https://htmlpreview.github.io/?https://github.com/tovaperlman/508_HW4_Public/blob/master/508_HW4.2.html)
 
 ---
 [Mapping Dead Sea Shrinkage using Google Earth Engine](pdf/Perlman, Tova_FinalProject.pdf)
