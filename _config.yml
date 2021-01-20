@@ -4,8 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Student at Penn MUSA 
   <br><br>
   Interests in Housing, Urban Policy, Data Visualization and Analytics 
+  
   <br><br>
   <a href="https://www.linkedin.com/in/tova-perlman-64a6a7155/">View My LinkedIn Profile</a> 
-  
+    <br><br>
+    
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
