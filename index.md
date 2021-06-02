@@ -7,15 +7,19 @@
 [Predicting Homelessness] (https://jalilg.github.io/mdha-analytics/)
 
 This semester long group project used data gathered from the Federal Homeless Management Information System (HMIS) to predict the likelihood of an individual experiencing homelessness within Dallas and Collins counties in Texas. The likelihood scores were aggregated to the service provider level in order to better understand which providers have more clients predicted to be homeless. The scores were put into a web application that enables overall viewing as well as seeing subset population predictions based on demographics such as race, gender or income level. Click [here](https://jalilg.github.io/mdha-analytics/) to see the web application as well our [R markdown report](https://jalilg.github.io/mdha-analytics/markdown.html) of the project. 
+[<img src="images/4.20 Draft Final Presentation.jpg?raw=true"/>](https://jalilg.github.io/mdha-analytics/)
 
 [Brazil Coffee Cultivation and Remote Sensing](pdf/Tova Perlman Final Project 650.pdf)
 Throughout the semester, I learned supervised and unsupervised image classification methods within machine learning and deep learning. For the final project, I attempted to find high accuracy in classifying land images in Brazil for whether they were good for coffee cultivation. I initially used SVM and Random Forest from scikit-learn. To get better accuracy, I used Keras API for TensorFlow and various hyperparameter tuning to achieve an accuracy of 79%.  Click to see the [final report](pdf/Tova Perlman MUSA 650 Final Project.pdf) and [presentation slides](pdf/Tova Perlman Final Project 650.pdf). 
+[<img src="images/musa650pic.PNG?raw=true"/>](pdf/Tova Perlman MUSA 650 Final Project.pdf)
 
 [Modeling Geographic Space]
 This course taught me how to manipulate raster data in ArcGIS Pro. Click to find projects related to [site suitability for a drone site](pdf/Perlman09.pdf), [a cost distance analysis for a proposed bandit getaway](pdf/Perlman07.pdf) and a [clustering analysis around gun violence in Philadelphia](pdf/Perlman08.pdf). These projects both present my technical skills in using tools of ArcGIS while also exemplifying my presentation skills and ability to explain and justify my reasoning to a non-technical audience.
+[<img src="images/mgspic.PNG?raw=true"/>](pdf/Perlman09.pdf)
 
 [Spatial patterns of Policing]()
 As someone who cares deeply about racial justice and policing, I felt it was important to work on projects that examines the Minneapolis police force specifically around the time of George Floyd’s murder. This basic map web application shows the spatial patterns of Minneapolis Police stops around that time. In a future iteration of this map, I will explore the spatial pattern more closely with other various demographics. 
+[<img src="images/jspolicemap.PNG?raw=true"/>](pdf/Perlman09.pdf)
 
 [Protest Trends](http://tovaperlman.github.io/MUSA550FinalProject/)
 
