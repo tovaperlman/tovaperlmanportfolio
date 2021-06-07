@@ -1,15 +1,35 @@
-title: Tova Perlman # your name (or website title) here
-logo: "/images/TovaPerlmanProfPic.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  ## Master's Degree in Urban Spatial Analytics
-  <br></br>
-  ### Interests in Data Visualization and Analytics centered around Housing and Urban Policy
+  title: <p align="center"> Tova Perlman </p>
+
+logo: "/images/cropped.jpg?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/tova-perlman-64a6a7155/">LinkedIn</a> |
+  <a href="https://github.com/tovaperlman">GitHub</a>
+  </p>
   
-  <br></br>
-  <br></br>
-  <a href="https://www.linkedin.com/in/tova-perlman-64a6a7155/">View My LinkedIn Profile</a> 
-    <br></br>
-    <br></br>
+  <p align="justify">
+  Recent graduate of UPenn ('21) with a Master's in Urban Spatial Analytics 
+  <br><br>
+  My interests lie in using data visualization and analytics
+  <br><br>
+  </p>
+
+
+
+# title: Tova Perlman # your name (or website title) here
+# logo: "/images/TovaPerlmanProfPic.jpg?raw=true" # your photo (or logo) here
+# description: > # your text below (remove <br> elements if you don't need line breaks)
+#   ## Master's Degree in Urban Spatial Analytics
+#   <br></br>
+#   ### Interests in Data Visualization and Analytics centered around Housing and Urban Policy
+  
+#   <br></br>
+#   <br></br>
+#   <a href="https://www.linkedin.com/in/tova-perlman-64a6a7155/">View My LinkedIn Profile</a> 
+#     <br></br>
+#     <br></br>
     
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
