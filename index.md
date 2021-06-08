@@ -23,10 +23,10 @@ This course taught me how to manipulate raster data in ArcGIS Pro. Click to find
 
 ---
 
-### [Where Do Police Stops Occur?]()
+### [Where Do Police Stops Occur?](https://tovaperlman.github.io/MUSA-611-Midterm/Midterm/)
 
 As someone who cares deeply about racial justice and policing, I felt it was important to work on projects that examine the Minneapolis police force specifically around the time of George Floyd’s murder. This basic map web application shows the spatial patterns of Minneapolis Police stops around that time. In a future iteration of this map, I will explore the spatial pattern more closely with other various demographics. 
-[<img src="images/jspolicemap.PNG?raw=true"/>](pdf/Perlman09.pdf)
+[<img src="images/jspolicemap.PNG?raw=true"/>](https://tovaperlman.github.io/MUSA-611-Midterm/Midterm/)
 
 ---
 
