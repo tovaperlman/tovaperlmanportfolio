@@ -2,6 +2,10 @@
 
 ---
 
+### [Mapping the World's Offline Population](https://dssgxuk.github.io/itu/)
+This project develops a predictive model to estimate the number of people connected to the internet (internet, in this instance, is a proxy for access to social and economic opportunities). The model was trained on a combination of survey data and multiple open source datasets. With the help of the custom engineered data gathering pipeline, the open source data can be collected for any given country and either the existing model can be applied or a new model can be trained if survey data is available. Click [here](https://dssgxuk.github.io/itu/) to see our documentation as well our github repo with all our scripts [here](https://github.com/DSSGxUK/itu).
+[<img src="images/RF_All_Schools.png?raw=true"/>](https://dssgxuk.github.io/itu/)
+
 ### [Predicting Homelessness](https://jalilg.github.io/mdha-analytics/)
 
 This semester long group project used data gathered from the Federal Homeless Management Information System (HMIS) to predict the likelihood of an individual experiencing homelessness within Dallas and Collins counties in Texas. The likelihood scores were aggregated to the service provider level in order to better understand which providers have more clients predicted to be homeless. The scores were put into a web application that enables overall viewing as well as seeing subset population predictions based on demographics such as race, gender or income level. Click [here](https://jalilg.github.io/mdha-analytics/) to see the web application as well our [R markdown report](https://jalilg.github.io/mdha-analytics/markdown.html) of the project. 
